@@ -6,3 +6,6 @@ name = sys.stdin.read()
 
 # prints greeting to STDOUT
 print("Hello " + name + "!")
+
+# By: Dhrumil Mehta
+# On Friday Jan 10, 2020
